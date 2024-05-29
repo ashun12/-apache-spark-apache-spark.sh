@@ -1,1 +1,1 @@
-apache-spark/apache-spark.sh
+apache-spark
